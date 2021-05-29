@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aidins1dev
-- 👀 Junior Back-End Developer
+- 💻 Junior Back-End Developer
 - 🌱 PHP Developer
 - ⚡ Intrested In Learning Laravel
 - 🪐 C# And C++ As a Future Plan
